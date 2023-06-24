@@ -1,0 +1,37 @@
+body{
+  border: cadetblue solid 5px;
+  padding:30px ;
+}
+header{
+
+}
+img{
+    margin: 10px;
+}
+nav{
+    padding: 10px;
+    background-color: rgba(33, 182, 187, 0.562);
+}
+main{
+    
+}
+h2{
+ text-align: center;
+}
+h1{
+    display: inline;
+    position: absolute;
+    right: 300px;
+    top: 110px;
+}
+details{
+    background-color:rgba(25, 235, 235, 0.527) ;
+    padding: 5px;
+    display: inline;
+    margin-right: 130px;
+}
+footer{
+    background-color: cadetblue;
+    padding: 30px;
+    margin-top: 20px;
+}
